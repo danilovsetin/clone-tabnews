@@ -1,4 +1,3 @@
-import { responseCookiesToRequestCookies } from "next/dist/server/web/spec-extension/adapters/request-cookies";
 import orchestrator from "tests/orchestrator.js";
 
 beforeAll(async () => {

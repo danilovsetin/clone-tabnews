@@ -49,8 +49,6 @@ async function getAuthenticatedUser(providedEmail, providedPassword) {
       });
     }
   }
-
-  return storedUser;
 }
 
 const authentication = {
